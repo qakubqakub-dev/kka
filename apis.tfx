@@ -1,0 +1,17 @@
+name=apis
+admin=false
+reseller=false
+vip=false
+description=nigger
+================== END ==================
+<<$clear>>[38;2;0;85;255m[ [0m<<$username>>[38;2;0;85;255m ] [38;2;252;8;8m⚫ [38;2;102;255;0mTELEGRAM[0m: [4;38;5;196m@Harvey[0m [38;2;252;8;8m⚫[24;38;5;231m MOTD ([38;2;224;8;29m<<$motd>>[0m)
+
+Working     - [38;2;102;255;0m⚫[0m
+Not Working -[38;2;219;0;15m ⚫[0m
+Weak        - [38;2;209;173;65m⚫[0m
+
+Eclipse - [38;2;102;255;0m⚫[0m ovh-cpu slams games
+Orphic  - [38;2;102;255;0m⚫[0m
+Error   - [38;2;102;255;0m⚫[0m L7 is Down!
+Holder  - [38;2;219;0;15m⚫[0m
+Synapse - [38;2;102;255;0m⚫[0m

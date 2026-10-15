@@ -1,0 +1,9 @@
+name=users-all
+description=total users
+admin=true
+vip=false
+reseller=false
+================== END ==================
+Hello <<$username>>
+Total Active Users <<$online>>
+

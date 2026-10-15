@@ -1,0 +1,7 @@
+name=myip
+admin=true
+reseller=false
+vip=false
+description=nigger
+================== END ==================
+Your public IPv4 is <<$Myip>>!
